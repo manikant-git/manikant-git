@@ -4,16 +4,16 @@
 
 ---
 
-[cite_start]I am a DevOps Engineer with over 2 years of experience specializing in cloud infrastructure, automation, and CI/CD[cite: 4]. I am passionate about building scalable and reliable systems using modern DevOps practices.
+I am a DevOps Engineer with over 2 years of experience specializing in cloud infrastructure, automation, and CI/CD[cite: 4]. I am passionate about building scalable and reliable systems using modern DevOps practices.
 
 ### 👨‍💻 About Me
 
--   [cite_start]🔭 I’m currently a **Software Engineer (DevOps)** at **Creative Tech Mars Software Solutions**[cite: 7].
--   [cite_start]☁️ My core skills include **AWS**, **Kubernetes (EKS)**, **Terraform**, and **Docker**[cite: 5, 37, 38].
--   [cite_start]🚀 I build and maintain CI/CD pipelines using **GitHub Actions** to improve deployment speed and reliability[cite: 9].
--   [cite_start]🐍 I use **Python** and **Shell** scripting to automate manual tasks, reducing deployment steps by 50%[cite: 5, 12].
--   [cite_start]🌱 I’m currently preparing for the **AWS Solutions Architect Associate** certification and planning for the **Certified Kubernetes Administrator (CKA)** exam[cite: 52, 54, 55].
--   [cite_start]📫 You can reach me at **manikanta183.devops@gmail.com**[cite: 2].
+-   🔭 I’m currently a **Software Engineer (DevOps)** at **Creative Tech Mars Software Solutions**.
+-   ☁️ My core skills include **AWS**, **Kubernetes (EKS)**, **Terraform**, and **Docker**.
+-   🚀 I build and maintain CI/CD pipelines using **GitHub Actions** to improve deployment speed and reliability.
+-   🐍 I use **Python** and **Shell** scripting to automate manual tasks, reducing deployment steps by 50%.
+-   🌱 I’m currently preparing for the **AWS Solutions Architect Associate** certification and planning for the **Certified Kubernetes Administrator (CKA)**.
+-   📫 You can reach me at **manikanta183.devops@gmail.com**.
 
 ### 🛠️ My Tech Stack
 
