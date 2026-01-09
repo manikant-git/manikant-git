@@ -13,7 +13,7 @@ I am a DevOps Engineer with over 2.6 years of experience specializing in cloud i
 -   🚀 I build and maintain CI/CD pipelines using **GitHub Actions** to improve deployment speed and reliability.
 -   🐍 I use **Python** and **Shell** scripting to automate manual tasks, reducing deployment steps by 50%.
 -   🌱 I’m currently preparing for the **AWS Solutions Architect Associate** certification and planning for the **Certified Kubernetes Administrator (CKA)**.
--   📫 You can reach me at **manikanta183.devops@gmail.com**.
+-   📫 You can reach me at **manikanta2001.devops@gmail.com**.
 
 ### 🛠️ My Tech Stack
 
